@@ -1,6 +1,6 @@
 # Testers Portfolio
 # About me
-I am a manual tester who used to be an analytical chemist.
+I am a junior manual tester and this is a sample of my skills.
 # Tools
 # Curses
 # Books
