@@ -1,4 +1,4 @@
-# Portfolio testera
+# Testers Portfolio
 # About me
 # Tools
 # Curses
