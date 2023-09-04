@@ -12,6 +12,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * ISTQB Foundation Level
 ## Curses
 ## Books
+* Roman A., Stapp L. _Certyfikowany tester ISTQB - Poziom podstawowy_, Gliwice, Helion, 2022
 ## Testers Community
 ## Blogs and websites
 ## Webinars and Meetups
