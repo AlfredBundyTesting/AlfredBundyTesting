@@ -18,6 +18,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 ## Webinars and Meetups
 ## My documentation
 * Test cases
+  + [PKP Intercity in Excel Spredsheet](https://docs.google.com/spreadsheets/d/1jByNlNDkCbd74JTvjxAh2CMbuVS3xaP1_rxfty1ISfw/edit#gid=0)
 * Test scenarios
 * Bug reports
 * Test reports
