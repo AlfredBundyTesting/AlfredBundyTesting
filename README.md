@@ -11,6 +11,9 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Postman
 * Atlassian Tools: Jira, Confluence
 * Selenium with Python
+* Operating Systems:
+* + Windows
+  + Linux: Debian, Ubuntu
 ## Certificates
 * ISTQB Foundation Level
 ## Curses
