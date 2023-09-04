@@ -12,6 +12,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Atlassian Tools: Jira, Confluence
 * Selenium with Python
 ## Certificates
+* ISTQB Foundation Level
 ## Curses
 ## Books
 ## Testers Community
