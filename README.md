@@ -12,7 +12,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Atlassian Tools: Jira, Confluence
 * Selenium with Python
 * Operating Systems:
-* + Windows
+  + Windows
   + Linux: Debian, Ubuntu
 ## Certificates
 * ISTQB Foundation Level
