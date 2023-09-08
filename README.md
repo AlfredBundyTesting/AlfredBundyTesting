@@ -16,6 +16,8 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 ## Testers Community
 ## Blogs and websites
 * [testerzy.pl](https://testerzy.pl/)
+* [toniebug.pl](https://www.toniebug.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## Webinars and Meetups
 ## My documentation
 * Test cases
