@@ -15,6 +15,8 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * [Selenium with Python](https://www.youtube.com/watch?v=2DD-ynCIZ4w&list=PLUDwpEzHYYLsuUBvuoYTlN0KsBB5t-BDa&index=2)
 * [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=4070s)
 * [SQL for testers](https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLt0aRs7gvyEEviMp_CoTO3q)
+* [Python Tutorial - Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15464s)
+* [Python for Beginners | Programming Tutorial](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=2)
 ## Books
 * Roman A., Stapp L. _Certyfikowany tester ISTQB - Poziom podstawowy_, Gliwice, Helion, 2022
 ## Testers Community
