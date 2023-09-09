@@ -32,4 +32,4 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Test scenarios
 * Bug reports
 * Test reports
-## My projects
+## My Projects
