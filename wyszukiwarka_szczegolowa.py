@@ -1,9 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
 import time
 driver = webdriver.Chrome()
-wiatfor = WebDriverWait(driver, 10)
 driver.get("https://www.intercity.pl/pl/")
 driver.maximize_window()
 driver.implicitly_wait(10)
