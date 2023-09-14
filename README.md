@@ -29,10 +29,11 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 ## Webinars and Meetups
 ## My Documentation
 * Test cases
-  + [PKP Intercity in Excel Spredsheet](https://docs.google.com/spreadsheets/d/1jByNlNDkCbd74JTvjxAh2CMbuVS3xaP1_rxfty1ISfw/edit?usp=drive_link)
+  + [PKP Intercity - Test Cases in Polish](https://docs.google.com/spreadsheets/d/1jByNlNDkCbd74JTvjxAh2CMbuVS3xaP1_rxfty1ISfw/edit?usp=drive_link)
 * Test scenarios
+  + [PKP Intercity - Test Scenarios in Polish](https://drive.google.com/file/d/11J7zBOwxWRC6-AfZtU6XoVnkm3DLMr40/view?usp=drive_link)
 * Bug reports
-  + [PKP Intercity](https://docs.google.com/spreadsheets/d/1X0qYCb_vhktNpVBZvGyt2Q-OtuPxx5masQ9uE2iB5o0/edit?usp=drive_link)
+  + [PKP Intercity - Bug Reports in Polish](https://docs.google.com/spreadsheets/d/1X0qYCb_vhktNpVBZvGyt2Q-OtuPxx5masQ9uE2iB5o0/edit?usp=drive_link)
 * Test reports
 ## My Projects
 * Scripted tests of the PKP Intercity connection finder
