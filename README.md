@@ -31,7 +31,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Test cases
   + [PKP Intercity - Test Cases in Polish](https://docs.google.com/spreadsheets/d/1jByNlNDkCbd74JTvjxAh2CMbuVS3xaP1_rxfty1ISfw/edit?usp=drive_link)
 * Test scenarios
-  + [PKP Intercity - Test Scenarios in Polish](https://drive.google.com/file/d/11J7zBOwxWRC6-AfZtU6XoVnkm3DLMr40/view?usp=drive_link)
+  + [PKP Intercity - Test Scenarios in Polish](https://docs.google.com/spreadsheets/d/1EAYrJTj-Rb1Ek6ChYkuNpSxxSkgH0Jq3VrHKaQF2ebk/edit?usp=drive_link)
 * Bug reports
   + [PKP Intercity - Bug Reports in Polish](https://docs.google.com/spreadsheets/d/1X0qYCb_vhktNpVBZvGyt2Q-OtuPxx5masQ9uE2iB5o0/edit?usp=drive_link)
 * Test reports
